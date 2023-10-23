@@ -1,5 +1,8 @@
 # V8-Object-Detection
 
++ yolov8 github: https://github.com/ultralytics/ultralytics
++ yolov8 docs: https://docs.ultralytics.com/quickstart/
+
 # DATA HAZIRLAMA AŞAMASI #
 
 1-Google Drive'da "yolov8" isimli bir klasör oluşturunuz.

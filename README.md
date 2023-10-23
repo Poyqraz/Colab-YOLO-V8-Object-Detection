@@ -29,4 +29,6 @@
 14- Eğitim aşaması kullandığınız modele ve eğitim basamağına göre değişiklik gösterebilir.
 15-Diğer hücreler , hücre üstlerinde yorum satırı olarak anlatışmıştır.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 !! Sadece test yapmak için oluşturulmuştur. Hiçbir art niyet ve çıkar gözetilmemektedir. Oluşabilecek herhangi bir sorunun sorumluluğu üslenmiyoruz. !!
